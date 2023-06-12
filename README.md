@@ -1,3 +1,3 @@
 # Messenger Clone
 
-HTML + CSS study!
+HTML & CSS study!
