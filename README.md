@@ -10,9 +10,9 @@ HTML & CSS study!
 
 <div>
     <img src="result.img/index.png" width="32%" />
+    <img src="result.img/friends.png" width="32%" />
     <img src="result.img/index.png" width="32%" />
-<img src="result.img/index.png" width="32%" />
     <img src="result.img/index.png" width="32%" />
-<img src="result.img/index.png" width="32%" />
+    <img src="result.img/index.png" width="32%" />
     <img src="result.img/index.png" width="32%" />
 </div>
