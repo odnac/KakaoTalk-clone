@@ -8,4 +8,4 @@ heroicons vs font awesome
 
 ### index.html
 
-<img src="result.img/index.png" width="300px" height="600px"/>
+<img src="result.img/index.png" width="30%" />
