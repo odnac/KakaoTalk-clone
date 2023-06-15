@@ -1,0 +1,44 @@
+.nav {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f9f9fa;
+    padding: 20px 50px;
+    box-sizing: border-box; /* padding으로 인해 box 사이즈가 커지는 걸 방지하는 코드 */
+    border-top: 1px solid rgba(121, 121, 121, 0.3);
+}
+
+.nav__list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav__link {
+    position: relative;
+    color: #2e363e;
+}
+
+.nav__notification {
+    background-color: tomato;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 300;
+    position: absolute; /* relative 부모 컨테이너를 내에서 움직임 */
+    left: 22px;
+    bottom: 18px;
+}
+
+.nav__notidot {
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    position: absolute; /* relative 부모 컨테이너 내에서 움직임 */
+    left: 32px;
+    bottom: 28px;
+}
