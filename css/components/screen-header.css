@@ -1,11 +1,11 @@
 .screen-header {
     display: flex;
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     box-sizing: border-box;
     justify-content: space-between;
     align-items: center;
-    padding: 25px;
+    padding: var(--horizontal-space);
     margin-top: 26px;
     background-color: white;
 }
