@@ -128,3 +128,8 @@ table {
 input:focus {
     outline: none; /* input 클릭 시 아웃라인 없앰 (email, password) */
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
