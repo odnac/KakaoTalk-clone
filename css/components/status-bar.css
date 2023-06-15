@@ -4,6 +4,9 @@
     why? status-bar__column의 비율에 따라 서로 밀어냄  
 */
 .status-bar {
+    position: fixed;
+    top: 0;
+    width: 100%;
     display: flex;
     /* justify-content: space-between; 빈 공간 주기, 단점은 딱 중앙에 있지 않는다 */
     justify-content: center;
