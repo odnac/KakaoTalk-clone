@@ -11,6 +11,7 @@
     /* justify-content: space-between; 빈 공간 주기, 단점은 딱 중앙에 있지 않는다 */
     justify-content: center;
     padding: 5px 3px;
+    background-color: white;
 }
 
 .status-bar__column {
