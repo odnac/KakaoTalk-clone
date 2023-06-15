@@ -2,9 +2,11 @@
 
 HTML & CSS study!
 
-BEM vs id,class
+<!--
+    BEM vs id,class
 
-heroicons vs font awesome
+    heroicons vs font awesome
+-->
 
 <div>
     <img src="result.img/index.png" width="32%" />
