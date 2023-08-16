@@ -1,0 +1,22 @@
+.find-icons {
+    /* 가로로 배열 */
+    display: flex;
+    /* 거리 띄우기 */
+    justify-content: space-between;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+.find-icons__icon {
+    display: flex;
+    /* 다음 줄 */
+    flex-direction: column;
+    align-items: center;
+}
+
+.find-icons__icon i {
+    font-size: 35px;
+}
+
+.find-icons__icon span {
+    margin-top: 18px;
+}
