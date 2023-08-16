@@ -11,4 +11,5 @@ HTML & CSS study!
 <div>
     <img src="image/index.png" width="32%" />
     <img src="image/friends.png" width="32%" />
+    <img src="image/find.png" width="32%" />
 </div>
