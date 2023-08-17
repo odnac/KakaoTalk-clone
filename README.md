@@ -1,6 +1,6 @@
 # Messenger Clone
 
-HTML & CSS study!
+Study HTML & CSS!
 
 <!--
     BEM vs id,class
