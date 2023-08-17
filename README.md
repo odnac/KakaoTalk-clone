@@ -14,4 +14,5 @@ HTML & CSS study!
     <img src="image/chats.png" width="32%" />
     <img src="image/find.png" width="32%" />
     <img src="image/settings.png" width="32%" />
+    <img src="image/chat.png" width="32%" />
 </div>
