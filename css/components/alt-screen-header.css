@@ -32,3 +32,12 @@
 .alt-header__column span:last-child {
     margin-left: 20px;
 }
+
+.chat__timestamp {
+    color: white;
+    background-color: #92a4b2;
+    padding: 8px 15px;
+    border-radius: 25px;
+    font-size: 12px;
+    margin-bottom: 25px;
+}
