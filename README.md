@@ -1,4 +1,4 @@
-# Messenger Clone
+# KakoTalk Clone
 
 HTML & CSS study!
 
