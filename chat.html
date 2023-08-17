@@ -46,6 +46,7 @@
 
         <main class="main-screen main-chat">
             <div class="chat__timestamp">Tuesday, Aug 17, 2023</div>
+
             <div class="message-row">
                 <img
                     src="https://littledeep.com/wp-content/uploads/2020/09/turtle-illustration-ai.png"
@@ -71,7 +72,44 @@
                     </div>
                 </div>
             </div>
+
+            <div class="message-row">
+                <img
+                    src="https://littledeep.com/wp-content/uploads/2020/09/turtle-illustration-ai.png"
+                />
+                <div class="message-row__content">
+                    <!-- span.message__author -->
+                    <span class="message__author">can</span>
+                    <div class="message__info">
+                        <span class="message__bubble"
+                            >Let's study HTML and CSS together</span
+                        >
+                        <span class="message__time">21:35</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="message-row message-row--own">
+                <div class="message-row__content">
+                    <!-- span.message__author -->
+                    <div class="message__info">
+                        <span class="message__bubble">no.....</span>
+                        <span class="message__time">21:36</span>
+                    </div>
+                </div>
+            </div>
         </main>
+
+        <form class="reply">
+            <div class="reply__column">
+                <i class="far fa-plus-square fa-lg"></i>
+            </div>
+            <div class="reply__column">
+                <input type="text" placeholder="Write message..." />
+                <i class="far fa-smile-wink fa-lg"></i>
+                <button><i class="fas fa-arrow-up"></i></button>
+            </div>
+        </form>
 
         <!-- font awesome 스크립트 -->
         <script
