@@ -9,8 +9,7 @@ Study HTML & CSS!
 -->
 
 <div>
-    <br/>
-    [gh-pages](https://odnac.github.io/KakaoTalk-clone/).
+    [gh-pages](https://odnac.github.io/KakaoTalk-clone/)
     <br/>
     <br/>
     <img src="image/index.png" width="32%" />
