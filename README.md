@@ -1,6 +1,6 @@
-# KakoTalk Clone [gh-pages](https://odnac.github.io/KakaoTalk-clone/)
+# KakoTalk Clone
 
-Study HTML & CSS!
+Study HTML & CSS! [gh-pages](https://odnac.github.io/KakaoTalk-clone/)
 
 <!--
     BEM vs id,class
