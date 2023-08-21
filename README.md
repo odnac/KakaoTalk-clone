@@ -1,6 +1,6 @@
 # KakoTalk Clone
 
-Study HTML & CSS!
+Study HTML & CSS! [gh-pages](https://odnac.github.io/KakaoTalk-clone/)
 
 <!--
     BEM vs id,class
@@ -9,7 +9,6 @@ Study HTML & CSS!
 -->
 
 <div>
-    [gh-pages](https://odnac.github.io/KakaoTalk-clone/)
     <br/>
     <br/>
     <img src="image/index.png" width="32%" />
